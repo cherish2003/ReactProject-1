@@ -9,7 +9,6 @@ An Cloud service website which provides services to saas companies
 
 - Designed with modern color palettes 
 - Appealing UI experience
-- 
 ## Live Link
 
 https://joyful-daffodil-14cbaf.netlify.app/
